@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/Dragonstaff of Ahghairon.md",
+            "file": "NPCs/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Dragonstaff of Ahghairon.md",
+                "file": "NPCs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Dragonstaff of Ahghairon.md",
+                "file": "NPCs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Dragonstaff of Ahghairon.md"
+                "file": "NPCs/Untitled.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Items/Dragonstaff of Ahghairon.md",
     "Items/Stone of Golorr.md",
     "NPCs/Xanathar.md",
     "Untitled.md",
