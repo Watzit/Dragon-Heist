@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Renaer Neverember.md",
+            "file": "Waterdeep/Waterdeep.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Renaer Neverember.md",
+                "file": "Waterdeep/Waterdeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Renaer Neverember.md",
+                "file": "Waterdeep/Waterdeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Renaer Neverember.md"
+                "file": "Waterdeep/Waterdeep.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "NPCs/Renaer Neverember.md",
     "NPCs/Floon Blagmaar.md",
     "NPCs/Volothamp Geddarm.md",
     "Items/Dragonstaff of Ahghairon.md",
