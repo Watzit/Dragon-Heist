@@ -43,7 +43,7 @@ NE male Chondathan human adventurer under the controlofanintellectdevourer
 
 Meloon Wardragon (see appendix B) comes across as acheery,optimistic,warm-heartedmaneagertofight alongside those he considers his friends. The Yawning Portal staff and many of the regular guests know that Meloon is a skilled fighter with ties to Force Grey.
 
-An intellect devourer in league with Xanathar ate Meloon's brain several months ago. Now under the mon- ster's control, Meloon actively discourages adventurers from exploring Undermountain and urges them to focus on conflicts in the city instead. He also hunts down and kills Zhentarim operatives for his secret beholder mas- ter. He has his eye on Davil Starsong (see appendix B) but won't kill the elf in plain view of witnesses.
+An intellect devourer in league with [[Xanathar]] ate Meloon's brain several months ago. Now under the mon- ster's control, Meloon actively discourages adventurers from exploring Undermountain and urges them to focus on conflicts in the city instead. He also hunts down and kills Zhentarim operatives for his secret beholder mas- ter. He has his eye on Davil Starsong (see appendix B) but won't kill the elf in plain view of witnesses.
 
 0BAYA UDAY  
 NG female Chu/tan human priest ofWaukeen
@@ -57,6 +57,6 @@ Ifyou plan to run [[Waterdeep]]: Dungeon ofthe Mad Mage after this adventure, Ob
 Y AGRA STONEFIST  
 N female half-ore thug-for-hire
 
-Yagra is a Black Network mercenary who gets paid to protect a Zhent negotiator named Davil Starsong (see appendix B for more information on him). Yagra finds the job boring and likes to pass the time by challenging adventurers to arm wrestle. (Resolve such contests using contested Strength checks.) If the characters express their opposition to the Xanathar Guild, Yagra might urge them to speak to Davil about joining forces with the Zhentarim to destroy the beholder crime lord.
+Yagra is a Black Network mercenary who gets paid to protect a Zhent negotiator named Davil Starsong (see appendix B for more information on him). Yagra finds the job boring and likes to pass the time by challenging adventurers to arm wrestle. (Resolve such contests using contested Strength checks.) If the characters express their opposition to the [[Xanathar]] Guild, Yagra might urge them to speak to Davil about joining forces with the Zhentarim to destroy the beholder crime lord.
 
 Yagra is a half-ore thug. When reduced to 0 hit points, she drops to 1 bit point instead (but can't do this again until she finjshes a long rest). She has darkvision out to a range of 60 feet. She speaks Common and Ore.

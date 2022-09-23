@@ -1,9 +1,9 @@
-A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the Xanathar Guild. In this atmosphere of danger, the characters are offered a quest by [[Volothamp Geddarm]]. Volo promises a reward if they can rescue  
+A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the [[Xanathar]] Guild. In this atmosphere of danger, the characters are offered a quest by [[Volothamp Geddarm]]. Volo promises a reward if they can rescue  
 his missing friend, [[Floon Blagmaar]], who he fears has been caught up in the conflict. Volo's
 
 quest is a straightforward introduction to the streets of [[Waterdeep]], providing the characters with an excuse to explore the city.
 
-IntheirhuntforVolo'sfriend, thecharactersmight make allies and enemies who can resurface throughout the adventure. Following the completion ofVolo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
+In their hunt for Volo's friend, the characters might make allies and enemies who can resurface throughout the adventure. Following the completion ofVolo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
 
 WHERE TO START
 
@@ -20,14 +20,14 @@ Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does 
 The human combatants are five members of the Xana- thar Guild (CE human bandits). The one with the eye- shaped tattoos on his bald pate is their leader, Krentz. Their foe, Yagra Strongfist, is a half-ore employed by the Zhentarim (see the [[Yawning Portal]] Friendly Faces handout in appendix C). Yagra fights for her pride.
 
 GETTING INVOLVED  
-If the characters choose to join the fray, have everyone roll initiative. But the fight is almost over by the time they push through the rowdy spectators. Krentz has only 3 hit points remaining and is trying to escape from underneath Yagra, but the four other Xanathar Guild members are poised to tackle her.
+If the characters choose to join the fray, have everyone roll initiative. But the fight is almost over by the time they push through the rowdy spectators. Krentz has only 3 hit points remaining and is trying to escape from underneath Yagra, but the four other [[Xanathar]] Guild members are poised to tackle her.
 
 Pu!ling Yagra away from Krentz requires a successful Strength check contested by Yagra's Strength check. Yagra thanks the characters if they help her, but is disap- pointed that they interfered in the fight.
 
-Remember how the characters deal with Krentz in this scene. Ifhe survives, the characters might meet him again in one of the Xanathar Guild's sewer hideouts (see area QS, page 28).
+Remember how the characters deal with Krentz in this scene. Ifhe survives, the characters might meet him again in one of the [[Xanathar]] Guild's sewer hideouts (see area QS, page 28).
 
 HANGING BACK  
-1fthe characters don't interfere in the brawl, Yagra knocks Krentz out cold but is then beaten unconscious by his companions. Durnan, the proprietor of the Yawn- ing Portal, points toward the door. "Out!" he snarls, and the Xanathar Guild members flee carrying Krentz's un- conscious form.
+1fthe characters don't interfere in the brawl, Yagra knocks Krentz out cold but is then beaten unconscious by his companions. Durnan, the proprietor of the Yawn- ing Portal, points toward the door. "Out!" he snarls, and the [[Xanathar]] Guild members flee carrying Krentz's un- conscious form.
 
 TROLL AND FRIENDS
 
@@ -64,9 +64,9 @@ Volo is embarrassed to admit he might have gotten his friend Floon in trouble, a
 Beset by writer's block, Volo met [[Floon Blagmaar]] for drinks at the Skewered Dragon two nights ago. They drank and gambled for a few hours, and then Volo left. That's the last he saw of Floon.
 
 Unbeknownst to Volo, not long after he departed, a drunken Floon met another acquaintance, Lord Ren- aer Neverember, at the tavern. The two left together, with Renaer offering to walk Floon home. Five Zhen- tarim thugs working for Urstul Floxin (see appendix B) jumped both Floon and Renaer. They took them to  
-a warehouse in the Dock Ward, so they could question Renaer- the son of Lord Dagult Neverember-about the whereabouts of the Stone ofGolorr and his father's hidden cache of dragons. Before the interrogation could begin, members of the Xanathar Guild ambushed and killed the Zhent guards in the warehouse. The new arrivals mistook Floon for Renaer, knocked Floon un- conscious, and dragged him away while Renaer hid and escaped their notice.
+a warehouse in the Dock Ward, so they could question Renaer- the son of Lord Dagult Neverember-about the whereabouts of the Stone ofGolorr and his father's hidden cache of dragons. Before the interrogation could begin, members of the [[Xanathar]] Guild ambushed and killed the Zhent guards in the warehouse. The new arrivals mistook Floon for Renaer, knocked Floon un- conscious, and dragged him away while Renaer hid and escaped their notice.
 
-Floon was taken to a Xanathar Guild hideout in the sewers. A small gang of kenku was left behind at the Zhentarim warehouse to kill any other Zhents who might show up at the warehouse. The presence of the kenku has prevented Renaer from trying to leave the warehouse.
+Floon was taken to a [[Xanathar]] Guild hideout in the sewers. A small gang of kenku was left behind at the Zhentarim warehouse to kill any other Zhents who might show up at the warehouse. The presence of the kenku has prevented Renaer from trying to leave the warehouse.
 
 FINDING FLOON
 
@@ -75,11 +75,11 @@ Volo last saw Floon outside the S kewered Dragon, a dubious (and Zhentarim-owned
 En route to the tavern, ·'Blood in the Streets" is a chance for characters to see the City Watch in action. If the characters decide to look around, "Searching the Dock Ward'"gives them a feel for their surroundings, and they might discover a strange place, "Old Xoblob S hop," that warrants further exploration. Once they ar- rive at their destination, "The Skewered Dragon" is an opportunity for the characters to get information from the patrons, which leads them to "Candle Lane,"' where their quest continues.
 
 BLOOD IN THE STREETS  
-As the characters travel through the Dock Ward, they come upon the aftermath of a bloody clash between the Xanathar Guild and the Zhentarim:
+As the characters travel through the Dock Ward, they come upon the aftermath of a bloody clash between the [[Xanathar]] Guild and the Zhentarim:
 
 As you turn a corner, you find yourselves on a street that has been cordoned off by the City Watch. Lying on the cobblestones are a half-dozen corpses, seemingly the victims of some terrible skirmish. Watch officers have disarmed and arrested three blood-drenched humans and are in the midst ofquestioning witnesses. One of the officers sees you. "Get on," she says. "Nothing to see here."
 
-The skirmish that occurred here has nothing to do with Floon·s disappearance but represents an escalation in the conflict between the Zhentarim and the Xanathar Guild. A dozen guards of the City Watch have arrested three bandits and are questioning witnesses while waiting for wagons to take away the criminals and
+The skirmish that occurred here has nothing to do with Floon·s disappearance but represents an escalation in the conflict between the Zhentarim and the [[Xanathar]] Guild. A dozen guards of the City Watch have arrested three bandits and are questioning witnesses while waiting for wagons to take away the criminals and
 
 the corpses. The survivors of the skirmish have been stripped of their weapons and forced to kneel with their hands on their heads. All three, loyal Zhentarim agents (employed by Urstul Floxin; see appendix B). are likely to be accused of murder. They coldly catch the eye of anyone who passes by, but the City Watch won't let the characters anywhere near the prisoners.
 
@@ -101,9 +101,9 @@ A cloud of lavender-scented purple smoke trails out of the shop's door as you pe
 
 The gnome lowers a pipe and exhales a cloud of lav- ender smoke before raising a hand. "Hail and well met! lCome browse the shelves ofthe most curious curiosity shop in the world! "
 
-The shop is named after the stuffed beholder in the win- dow-a fixture that is actually a magical sensor, through which Xanathar can peer whenever it wishes.
+The shop is named after the stuffed beholder in the win- dow-a fixture that is actually a magical sensor, through which [[Xanathar]] can peer whenever it wishes.
 
-The shopkeeper is a wizened deep gnome who spies for the Xanathar Guild. A few years ago, he survived the detonation of a gas spore in Undermountain and inherited some stray beholder memories. Driven by a compulsion to carve out his own domain, the gnome settled in [[Waterdeep]], bought the Old Xoblob Shop from its previous owner, and tried renaming it after himself, yet everyone kept calling it the Old Xoblob Shop. He therefore restored the old name and changed his name to Xoblob. ·'No relation to the eye tyrant hanging in the window!" he says.
+The shopkeeper is a wizened deep gnome who spies for the [[Xanathar]] Guild. A few years ago, he survived the detonation of a gas spore in Undermountain and inherited some stray beholder memories. Driven by a compulsion to carve out his own domain, the gnome settled in [[Waterdeep]], bought the Old Xoblob Shop from its previous owner, and tried renaming it after himself, yet everyone kept calling it the Old Xoblob Shop. He therefore restored the old name and changed his name to Xoblob. ·'No relation to the eye tyrant hanging in the window!" he says.
 
 Trinkets. The gnome sells an assortment of trinkets. As the characters search the shelves, roll on the Trin- kets table in chapter 5 of the Player's Handbook to de- termine what catches their eye. Xoblob sells any trinket for ld6 gp.
 
