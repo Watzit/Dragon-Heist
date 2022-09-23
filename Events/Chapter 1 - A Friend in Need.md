@@ -1,7 +1,5 @@
 A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the [[Xanathar]] Guild. In this atmosphere of danger, the characters are offered a quest by [[Volothamp Geddarm]]. Volo promises a reward if they can rescue  
-his missing friend, [[Floon Blagmaar]], who he fears has been caught up in the conflict. Volo's
-
-quest is a straightforward introduction to the streets of [[Waterdeep]], providing the characters with an excuse to explore the city.
+his missing friend, [[Floon Blagmaar]], who he fears has been caught up in the conflict. Volo's quest is a straightforward introduction to the streets of [[Waterdeep]], providing the characters with an excuse to explore the city.
 
 In their hunt for Volo's friend, the characters might make allies and enemies who can resurface throughout the adventure. Following the completion of Volo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
 
