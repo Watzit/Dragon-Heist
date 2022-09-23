@@ -7,11 +7,9 @@
         "id": "a34e937dd35e665a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Party/Hilbo.md",
-            "mode": "source",
-            "source": false
+            "file": "D&D 5E - Waterdeep - Dragon Heist.pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Hilbo.md",
+                "file": "D&D 5E - Waterdeep - Dragon Heist.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Hilbo.md",
+                "file": "D&D 5E - Waterdeep - Dragon Heist.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Hilbo.md"
+                "file": "D&D 5E - Waterdeep - Dragon Heist.pdf"
               }
             }
           },
@@ -138,14 +136,15 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
-    "Waterdeep/Waterdeep.md",
+    "Party/Hilbo.md",
+    "README.md",
+    "NPCs/Xanathar.md",
+    "NPCs/Volothamp Geddarm.md",
     "NPCs/Renaer Neverember.md",
     "NPCs/Floon Blagmaar.md",
-    "NPCs/Volothamp Geddarm.md",
-    "Items/Dragonstaff of Ahghairon.md",
     "Items/Stone of Golorr.md",
-    "NPCs/Xanathar.md",
-    "Untitled.md",
-    "README.md"
+    "Items/Dragonstaff of Ahghairon.md",
+    "Waterdeep/Waterdeep.md",
+    "Untitled.md"
   ]
 }
