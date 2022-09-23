@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
+            "file": "Waterdeep/Zhentarim Hideout/Z1. Storage Closet.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
+                "file": "Waterdeep/Zhentarim Hideout/Z1. Storage Closet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
+                "file": "Waterdeep/Zhentarim Hideout/Z1. Storage Closet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waterdeep/Zhentarim Hideout/Z1. Main Room.md"
+                "file": "Waterdeep/Zhentarim Hideout/Z1. Storage Closet.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
     "Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
     "Events/Chapter 1 - A Friend in Need.md",
     "Party/Hilbo.md",
@@ -146,7 +147,6 @@
     "Events/Chapter 2 - Trollskull Alley.md",
     "D&D 5E - Waterdeep - Dragon Heist.pdf",
     "README.md",
-    "NPCs/Xanathar.md",
-    "NPCs/Volothamp Geddarm.md"
+    "NPCs/Xanathar.md"
   ]
 }
