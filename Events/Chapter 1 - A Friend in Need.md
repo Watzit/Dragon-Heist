@@ -3,11 +3,11 @@ his missing friend, [[Floon Blagmaar]], who he fears has been caught up in the c
 
 quest is a straightforward introduction to the streets of [[Waterdeep]], providing the characters with an excuse to explore the city.
 
-In their hunt for Volo's friend, the characters might make allies and enemies who can resurface throughout the adventure. Following the completion ofVolo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
+In their hunt for Volo's friend, the characters might make allies and enemies who can resurface throughout the adventure. Following the completion of Volo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
 
 WHERE TO START
 
-This adventure assumes that the characters have al- ready formed a party and arc presently in the [[Yawning Portal]], perhaps knocking back a pint of Shadowdark ale and wolfing down a plate of quipper and chips. Alterna- tively, you can begin this adventure as the characters first enter the raucous tavern, or by having them all meet for the first time as Volo hands them their initial quest.
+This adventure assumes that the characters have already formed a party and arc presently in the [[Yawning Portal]], perhaps knocking back a pint of Shadowdark ale and wolfing down a plate of quipper and chips. Alternatively, you can begin this adventure as the characters first enter the raucous tavern, or by having them all meet for the first time as Volo hands them their initial quest.
 
 TAVERN BRAWL
 
