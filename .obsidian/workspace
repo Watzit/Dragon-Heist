@@ -7,11 +7,9 @@
         "id": "a34e937dd35e665a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Party/Souta Sai.md",
-            "mode": "source",
-            "source": false
+            "file": "D&D 5E - Waterdeep - Dragon Heist.pdf"
           }
         }
       }
@@ -19,122 +17,107 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a2d38b5edeb9cb84",
-    "type": "split",
+    "id": "f5b09fdb0fc32563",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "46872d52bdd415eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "82ec5d9f4c89216f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d7a82e90430a2ad",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "1dbb0b80b5445adb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "decd3e8a528336ce",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7652954362e213cd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "4a910b1cc8362b9c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b1769c4297eeb163",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "346f4b0626c3879d",
-    "type": "split",
+    "id": "318fe2a3687a0707",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "215b4e95046e5585",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df352530f4eab7a6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Party/Souta Sai.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ef1653ac400176fa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Party/Souta Sai.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e3c1d284380a6e79",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "eb8e42cde7b683ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Party/Souta Sai.md"
-              }
-            }
-          },
-          {
-            "id": "58f1aac883b2eaf5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
+        "id": "98fa6b7a9c34adf9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "D&D 5E - Waterdeep - Dragon Heist.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "64f3c931d97274d6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "D&D 5E - Waterdeep - Dragon Heist.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "afd9dc8cf63a00d8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "D&D 5E - Waterdeep - Dragon Heist.pdf"
+          }
+        }
+      },
+      {
+        "id": "29ab3d36ea477946",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
