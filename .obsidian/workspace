@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Events/Chapter 4 - Dragon Season.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Events/Chapter 4 - Dragon Season.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Events/Chapter 4 - Dragon Season.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Events/Chapter 4 - Dragon Season.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Events/Chapter 3 - Fireball.md",
+    "Events/Chapter 2 - Trollskull Alley.md",
     "Events/Chapter 1 - A Friend in Need.md",
+    "Events/Chapter 4 - Dragon Season.md",
     "D&D 5E - Waterdeep - Dragon Heist.pdf",
     "Party/Hilbo.md",
     "README.md",
     "NPCs/Xanathar.md",
     "NPCs/Volothamp Geddarm.md",
-    "NPCs/Renaer Neverember.md",
-    "NPCs/Floon Blagmaar.md",
-    "Items/Stone of Golorr.md",
-    "Items/Dragonstaff of Ahghairon.md"
+    "NPCs/Renaer Neverember.md"
   ]
 }
