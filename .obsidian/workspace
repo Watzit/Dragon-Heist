@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Chapter 1 - A Friend in Need.md",
+            "file": "Locations/Yawning Portal/Yawning Portal.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Chapter 1 - A Friend in Need.md",
+                "file": "Locations/Yawning Portal/Yawning Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Chapter 1 - A Friend in Need.md",
+                "file": "Locations/Yawning Portal/Yawning Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Chapter 1 - A Friend in Need.md"
+                "file": "Locations/Yawning Portal/Yawning Portal.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
-    "Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
-    "Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
-    "Waterdeep/Zhentarim Hideout/Z2. Storage Closet.md",
     "Events/Chapter 1 - A Friend in Need.md",
+    "Locations/Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
+    "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
+    "Locations/Waterdeep/Zhentarim Hideout/Z2. Storage Closet.md",
     "Party/Hilbo.md",
     "Events/Chapter 4 - Dragon Season.md",
     "Events/Chapter 3 - Fireball.md",
