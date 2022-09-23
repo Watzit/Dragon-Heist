@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Chapter 4 - Dragon Season.md",
+            "file": "Events/Chapter 1 - A Friend in Need.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Chapter 4 - Dragon Season.md",
+                "file": "Events/Chapter 1 - A Friend in Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Chapter 4 - Dragon Season.md",
+                "file": "Events/Chapter 1 - A Friend in Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Chapter 4 - Dragon Season.md"
+                "file": "Events/Chapter 1 - A Friend in Need.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Events/Chapter 4 - Dragon Season.md",
     "Events/Chapter 3 - Fireball.md",
     "Events/Chapter 2 - Trollskull Alley.md",
     "Events/Chapter 1 - A Friend in Need.md",
-    "Events/Chapter 4 - Dragon Season.md",
     "D&D 5E - Waterdeep - Dragon Heist.pdf",
     "Party/Hilbo.md",
     "README.md",
