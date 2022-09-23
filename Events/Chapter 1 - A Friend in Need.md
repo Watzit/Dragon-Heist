@@ -1,9 +1,9 @@
-A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the Xanathar Guild. In this atmosphere of danger, the characters are offered a quest by Volothamp Geddarm. Volo promises a reward if they can rescue  
-his missing friend, Floon Blagmaar, who he fears has been caught up in the conflict. Volo's
+A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the Xanathar Guild. In this atmosphere of danger, the characters are offered a quest by [[Volothamp Geddarm]]. Volo promises a reward if they can rescue  
+his missing friend, [[Floon Blagmaar]], who he fears has been caught up in the conflict. Volo's
 
-quest is a straightforward introduction to the streets of Waterdeep, providing the characters with an excuse to explore the city.
+quest is a straightforward introduction to the streets of [[Waterdeep]], providing the characters with an excuse to explore the city.
 
-IntheirhuntforVolo'sfriend, thecharactersmight make allies and enemies who can resurface throughout the adventure. Following the completion ofVolo's quest, the characters gain a home base with an address in Trollskull Alley, in Waterdeep's North Ward. From their new base, the characters can plot their own course, whether it involves interacting with Waterdeep's people, joining one of the city's many factions, or simply poking around for danger.
+IntheirhuntforVolo'sfriend, thecharactersmight make allies and enemies who can resurface throughout the adventure. Following the completion ofVolo's quest, the characters gain a home base with an address in Trollskull Alley, in [[Waterdeep]]'s North Ward. From their new base, the characters can plot their own course, whether it involves interacting with [[Waterdeep]]'s people, joining one of the city's many factions, or simply poking around for danger.
 
 WHERE TO START
 
@@ -48,11 +48,11 @@ MEETING VOLO
 
 Once the troll and the stirges are dealt with, Volo pushes against the tide of patrons staying clear of th~ monster to greet the characters, lavishing praise on them for their bravery (whetherjustified or not): "You be adventurers, am I right? I could use your help. Let's find a table to talk, shall we?"
 
-Volothamp Geddarm is known to most Waterdavians as a braggart and a notorious embellisher of facts. For all his faults, though, Volo is a soft-hearted sort who cares for nothing as much as his friends. At present, he is grievously concerned for the well-being of one of them. He begins his request with an air of charm and mystery, but it quickly devolves into tearful sincerity.
+[[Volothamp Geddarm]] is known to most Waterdavians as a braggart and a notorious embellisher of facts. For all his faults, though, Volo is a soft-hearted sort who cares for nothing as much as his friends. At present, he is grievously concerned for the well-being of one of them. He begins his request with an air of charm and mystery, but it quickly devolves into tearful sincerity.
 
-The figure who approached you strokes his mustache, adjusts his floppy hat, and tightens his scarf. "Volothamp Geddarm, chronicler, wizard, and celebrity, at your service. I trust you've noted the violence in ou r fair city these past tendays. I haven't seen so much blood since my last visit to Baldur's Gate! But now I fear I have mis- placed a friend amid this odious malevolence.
+The figure who approached you strokes his mustache, adjusts his floppy hat, and tightens his scarf. "[[Volothamp Geddarm]], chronicler, wizard, and celebrity, at your service. I trust you've noted the violence in ou r fair city these past tendays. I haven't seen so much blood since my last visit to Baldur's Gate! But now I fear I have mis- placed a friend amid this odious malevolence.
 
-"My friend's name is Floon Blagmaar. He's got more beauty than brains, and I worry he took a bad way home a couple nights ago and was kidnapped-or worse. If you agree to track him down with all due haste, I can offer you ten dragons apiece now, and I can give you each ten times that when you find Floon. May I prevail upon you in my hour ofneed?"
+"My friend's name is [[Floon Blagmaar]]. He's got more beauty than brains, and I worry he took a bad way home a couple nights ago and was kidnapped-or worse. If you agree to track him down with all due haste, I can offer you ten dragons apiece now, and I can give you each ten times that when you find Floon. May I prevail upon you in my hour ofneed?"
 
 Volo gives each character a small pouch containing 10 gp simply for accepting his quest. Characters who want to discover his intentions must make a DC 10 Wisdom (Insight) check. On a success, a character discerns that Volo is honest but might be stretching the truth about how much he can pay. (Currently low on cash, Volo is awaiting royalty payments from Volo's Guide to Mon- sters. To make more coin. he began work on a new book, Vo/o's Guide to Spirits and Specters. As it happens, his knowledge ofspirits mostly concerns the alcoholic vari- ety, and the writing has not been going well.) If pressed, Volo urges the characters to trust him, and promises he'll have the rest of the reward, 100 gp per character, ready to deliver once Floon is returned to him alive.
 
@@ -61,7 +61,7 @@ Volo describes Floon as a handsome human male in his early thirties with wavy re
 WHAT HAPPENED THAT NIGHT?  
 Volo is embarrassed to admit he might have gotten his friend Floon in trouble, and he resists providing all the details ofwhat happened the night Floon disappeared.
 
-Beset by writer's block, Volo met Floon Blagmaar for drinks at the Skewered Dragon two nights ago. They drank and gambled for a few hours, and then Volo left. That's the last he saw of Floon.
+Beset by writer's block, Volo met [[Floon Blagmaar]] for drinks at the Skewered Dragon two nights ago. They drank and gambled for a few hours, and then Volo left. That's the last he saw of Floon.
 
 Unbeknownst to Volo, not long after he departed, a drunken Floon met another acquaintance, Lord Ren- aer Neverember, at the tavern. The two left together, with Renaer offering to walk Floon home. Five Zhen- tarim thugs working for Urstul Floxin (see appendix B) jumped both Floon and Renaer. They took them to  
 a warehouse in the Dock Ward, so they could question Renaer- the son of Lord Dagult Neverember-about the whereabouts of the Stone ofGolorr and his father's hidden cache of dragons. Before the interrogation could begin, members of the Xanathar Guild ambushed and killed the Zhent guards in the warehouse. The new arrivals mistook Floon for Renaer, knocked Floon un- conscious, and dragged him away while Renaer hid and escaped their notice.
@@ -103,11 +103,11 @@ The gnome lowers a pipe and exhales a cloud of lav- ender smoke before raising a
 
 The shop is named after the stuffed beholder in the win- dow-a fixture that is actually a magical sensor, through which Xanathar can peer whenever it wishes.
 
-The shopkeeper is a wizened deep gnome who spies for the Xanathar Guild. A few years ago, he survived the detonation of a gas spore in Undermountain and inherited some stray beholder memories. Driven by a compulsion to carve out his own domain, the gnome settled in Waterdeep, bought the Old Xoblob Shop from its previous owner, and tried renaming it after himself, yet everyone kept calling it the Old Xoblob Shop. He therefore restored the old name and changed his name to Xoblob. ·'No relation to the eye tyrant hanging in the window!" he says.
+The shopkeeper is a wizened deep gnome who spies for the Xanathar Guild. A few years ago, he survived the detonation of a gas spore in Undermountain and inherited some stray beholder memories. Driven by a compulsion to carve out his own domain, the gnome settled in [[Waterdeep]], bought the Old Xoblob Shop from its previous owner, and tried renaming it after himself, yet everyone kept calling it the Old Xoblob Shop. He therefore restored the old name and changed his name to Xoblob. ·'No relation to the eye tyrant hanging in the window!" he says.
 
 Trinkets. The gnome sells an assortment of trinkets. As the characters search the shelves, roll on the Trin- kets table in chapter 5 of the Player's Handbook to de- termine what catches their eye. Xoblob sells any trinket for ld6 gp.
 
-Floon's Fate. The gnome doesn't know Floon by name, but he recognizes liis description. He is reluctant to share information, but offering him a new purple item or succeeding on a DC 13 Charisma (Intimidation or Persuasion) check loosens his tongue. He says that Floon and a well-dressed fellow of similar appearance and bearing (Renaer Neverember, though the gnome doesn't know his name and didn't recognize him) were
+Floon's Fate. The gnome doesn't know Floon by name, but he recognizes liis description. He is reluctant to share information, but offering him a new purple item or succeeding on a DC 13 Charisma (Intimidation or Persuasion) check loosens his tongue. He says that Floon and a well-dressed fellow of similar appearance and bearing ([[Renaer Neverember]], though the gnome doesn't know his name and didn't recognize him) were
 
 jumped outside the shop by rough-looking men in black leather armor. Xoblob thinks there were five attackers, but none of them looked familiar. One of them had a black tattoo ofa winged snake on his neck.
 
@@ -118,7 +118,7 @@ The Skewered Dragon looks like a ruin. Both of its front-facing windows are smas
 
 Floon has not been at the Skewered Dragon since the night of his disappearance, and the dive's dockworker patrons are loath to talk to strangers. A bribe or a suc- cessful DC 13 Charisma (Intimidation or Persuasion) check gets them to open up.
 
-Floon's Fate. Several of the regulars remember see- ing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: Renaer Neverember, the son of Waterdeep's previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. 'Just another spoiled, rich noble who likes to rub our noses in it!" says another.
+Floon's Fate. Several of the regulars remember see- ing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: [[Renaer Neverember]], the son of [[Waterdeep]]'s previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. 'Just another spoiled, rich noble who likes to rub our noses in it!" says another.
 
 ThetwodrankandplayedafewroundsofThree- Dragon Ante before leaving around midnight. Five men followed them out, and no one in the tavern knows what happened after that. The men who left shortly after Floon and Renaer haven't returned to the tavern since, but they're known to frequent a warehouse on Candle Lane. "Look for the snake symbol on the door," says one of the tavern regulars.
 

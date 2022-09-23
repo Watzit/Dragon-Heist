@@ -1,7 +1,7 @@
 The Yawning Portal is a famous inn and tavern located in the Castle Ward ofWaterdeep. Adventurers can meet all sorts of colorful characters here.
 
 The place is a stone building with a slate roof and several chimneys. Most of the ground floor is taken  
-up by the tavern's common room, which contains a 40-foot-diameter open well (actually the outershell ofa sunken stone tower) that descends 140 feet to the first level of Undermountain, the sprawling dungeon under Waterdeep. A rope-and-pulley mechanism is used to lower adventurers into the well and hoist them out. More information about this entrance to Undermountain can be found in Waterdeep: Dungeon ofthe Mad Mage.
+up by the tavern's common room, which contains a 40-foot-diameter open well (actually the outershell ofa sunken stone tower) that descends 140 feet to the first level of Undermountain, the sprawling dungeon under [[Waterdeep]]. A rope-and-pulley mechanism is used to lower adventurers into the well and hoist them out. More information about this entrance to Undermountain can be found in [[Waterdeep]]: Dungeon ofthe Mad Mage.
 
 The upper floors of the Yawning Portal contain com- fortable. nicely appointed rooms for guests.
 
@@ -34,7 +34,7 @@ jALESTER SILVERMANE
 
 LG male Chondathan human lighter
 
-Jalester Silvermane (see appendix B) is an agent of the Lords' Alliance who reports directly to Laeral Silver- hand. The Open Lord of Waterdeep has asked him to spy on adventurers who might, through their actions, aid or imperil the city and its citizens. Since the Yawning Portal attracts adventurers of all sorts,Jalester spends a lot of time here, usually seated by himself in a quiet cor- ner. Durnan knows thatjalester works for Laeral and leaves the young man alone.
+Jalester Silvermane (see appendix B) is an agent of the Lords' Alliance who reports directly to Laeral Silver- hand. The Open Lord of [[Waterdeep]] has asked him to spy on adventurers who might, through their actions, aid or imperil the city and its citizens. Since the Yawning Portal attracts adventurers of all sorts,Jalester spends a lot of time here, usually seated by himself in a quiet cor- ner. Durnan knows thatjalester works for Laeral and leaves the young man alone.
 
 Jalester is often distracted by thoughts of Faerrel Dun- blade, his boyfriend, who was killed in a street fight last year. When not engaged in alliance business. jalester is lonely and looking for love.
 
@@ -52,7 +52,7 @@ Obaya, a priest. bas traveled from Chult to sponsor ex- peditions into Undermoun
 
 dermountain but is happy to help them with her magic until they gain enough experience to be useful to her.
 
-Ifyou plan to run Waterdeep: Dungeon ofthe Mad Mage after this adventure, Obaya can take on a more prominent role as an advisor and a source of quests.
+Ifyou plan to run [[Waterdeep]]: Dungeon ofthe Mad Mage after this adventure, Obaya can take on a more prominent role as an advisor and a source of quests.
 
 Y AGRA STONEFIST  
 N female half-ore thug-for-hire
