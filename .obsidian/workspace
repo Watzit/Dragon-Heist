@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Yawning Portal/Yawning Portal.md",
+            "file": "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Yawning Portal/Yawning Portal.md",
+                "file": "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Yawning Portal/Yawning Portal.md",
+                "file": "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Yawning Portal/Yawning Portal.md"
+                "file": "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md"
               }
             }
           },
@@ -133,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
-    "Events/Chapter 1 - A Friend in Need.md",
-    "Locations/Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
-    "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md",
     "Locations/Waterdeep/Zhentarim Hideout/Z2. Storage Closet.md",
-    "Party/Hilbo.md",
+    "Locations/Waterdeep/Zhentarim Hideout/Z1. Main Room.md",
+    "Items/Stone of Golorr.md",
+    "Items/Dragonstaff of Ahghairon.md",
     "Events/Chapter 4 - Dragon Season.md",
     "Events/Chapter 3 - Fireball.md",
     "Events/Chapter 2 - Trollskull Alley.md",
-    "D&D 5E - Waterdeep - Dragon Heist.pdf",
-    "README.md"
+    "Events/Chapter 1 - A Friend in Need.md",
+    "Locations/Yawning Portal/Yawning Portal.md",
+    "Locations/Waterdeep/Zhentarim Hideout/Zhentarim Hideout.md"
   ]
 }

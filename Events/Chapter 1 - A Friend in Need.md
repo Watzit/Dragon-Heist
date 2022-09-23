@@ -1,4 +1,4 @@
-A BAR BRAWL IN THE YAWNING PORTAL PROVES that nowhere is safe from the gang war between the Zhentarim and the Xanathar Guild. In this atmosphere of danger, the characters are offered a quest by Volothamp Geddarm. Volo promises a reward if they can rescue  
+A BAR BRAWL IN THE [[YAWNING PORTAL]] PROVES that nowhere is safe from the gang war between the Zhentarim and the Xanathar Guild. In this atmosphere of danger, the characters are offered a quest by Volothamp Geddarm. Volo promises a reward if they can rescue  
 his missing friend, Floon Blagmaar, who he fears has been caught up in the conflict. Volo's
 
 quest is a straightforward introduction to the streets of Waterdeep, providing the characters with an excuse to explore the city.
@@ -7,17 +7,17 @@ IntheirhuntforVolo'sfriend, thecharactersmight make allies and enemies who can r
 
 WHERE TO START
 
-This adventure assumes that the characters have al- ready formed a party and arc presently in the Yawning Portal, perhaps knocking back a pint of Shadowdark ale and wolfing down a plate of quipper and chips. Alterna- tively, you can begin this adventure as the characters first enter the raucous tavern, or by having them all meet for the first time as Volo hands them their initial quest.
+This adventure assumes that the characters have al- ready formed a party and arc presently in the [[Yawning Portal]], perhaps knocking back a pint of Shadowdark ale and wolfing down a plate of quipper and chips. Alterna- tively, you can begin this adventure as the characters first enter the raucous tavern, or by having them all meet for the first time as Volo hands them their initial quest.
 
 TAVERN BRAWL
 
-As the characters are relaxing in the taproom of the Yawning Portal. a fistfight breaks out. Read the follow- ing to set the scene:
+As the characters are relaxing in the taproom of the [[Yawning Portal]]. a fistfight breaks out. Read the follow- ing to set the scene:
 ____
 "You sit around a sturdy wooden table lit by a brightly burning candle and littered with plates cleared of food and half-drained tankards. The sounds of gamblers yelling and drunken adventurers singing bawdy songs nearly drown out the off-key strumming of a young bard three tables over."
 ____
 Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does ya?" Then a seven-foot-tall half- orc is hit by a wild, swinging punch from a male human whose shaved head is covered with eye-shaped tattoos. Four other humans stand behind him, ready to jump Into the fray. The half-ore cracks her knuckles, roars, and leaps at the tattooed figure- but before you can see if blood is drawn, a crowd of spectators clusters around the brawl. What do you do?
 
-The human combatants are five members of the Xana- thar Guild (CE human bandits). The one with the eye- shaped tattoos on his bald pate is their leader, Krentz. Their foe, Yagra Strongfist, is a half-ore employed by the Zhentarim (see the Yawning Portal Friendly Faces handout in appendix C). Yagra fights for her pride.
+The human combatants are five members of the Xana- thar Guild (CE human bandits). The one with the eye- shaped tattoos on his bald pate is their leader, Krentz. Their foe, Yagra Strongfist, is a half-ore employed by the Zhentarim (see the [[Yawning Portal]] Friendly Faces handout in appendix C). Yagra fights for her pride.
 
 GETTING INVOLVED  
 If the characters choose to join the fray, have everyone roll initiative. But the fight is almost over by the time they push through the rowdy spectators. Krentz has only 3 hit points remaining and is trying to escape from underneath Yagra, but the four other Xanathar Guild members are poised to tackle her.
@@ -42,7 +42,7 @@ and rolls initiative. The stirges also roll initiative, but only the three flyin
 Most tavern patrons and staffers flee or take cover  
 at the sight of the troll. The stirges attack the nearest characters as Durnan (see appendix B) draws his great- sword, springs over the bar, and confronts the monster himself. As he attacks, he calls on the characters to focus on s laying the stirges and then douse the troll with lamp oil and set it on fire when it falls. Yagra joins the fight if she's conscious. To any characters who help defeat the troll, Durnan says matter-of-factly, "You fought well."
 
-If any of the characters are reduced to 0 hit points during the fight, employees of the Yawning Portal step forward to stabilize them.
+If any of the characters are reduced to 0 hit points during the fight, employees of the [[Yawning Portal]] step forward to stabilize them.
 
 MEETING VOLO
 
