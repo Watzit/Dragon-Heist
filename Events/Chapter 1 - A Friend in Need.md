@@ -13,7 +13,7 @@ TAVERN BRAWL
 
 As the characters are relaxing in the taproom of the Yawning Portal. a fistfight breaks out. Read the follow- ing to set the scene:
 ____
-"You sit around a sturdy wooden table lit by a brightly burning candle and littered with plates cleared of food and half-drained tankards. The sounds of gamblers yelling and drunken adventurers singing bawdy songs nearly drown out the off-key strumming of a youngbardthree tables over."
+"You sit around a sturdy wooden table lit by a brightly burning candle and littered with plates cleared of food and half-drained tankards. The sounds of gamblers yelling and drunken adventurers singing bawdy songs nearly drown out the off-key strumming of a young bard three tables over."
 ____
 Then all the noise is eclipsed by a shout: "Ya pig! Like killin' me mates, does ya?" Then a seven-foot-tall half- orc is hit by a wild, swinging punch from a male human whose shaved head is covered with eye-shaped tattoos. Four other humans stand behind him, ready to jump Into the fray. The half-ore cracks her knuckles, roars, and leaps at the tattooed figure- but before you can see if blood is drawn, a crowd of spectators clusters around the brawl. What do you do?
 
