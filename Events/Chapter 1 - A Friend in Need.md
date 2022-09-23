@@ -58,7 +58,7 @@ Volo gives each character a small pouch containing 10 gp simply for accepting hi
 
 Volo describes Floon as a handsome human male in his early thirties with wavy red-blond hair. He was dressed in princely garb when Volo last saw him. Two nights ago, before Floon disappeared, he and Volo were drinking and merrymaking at the Skewered Dragon, a dark, bawdy tavern in the Dock Ward. Volo recommends that the characters start their search there.
 
-WHAT HAPPENED THAT NICHT?  
+WHAT HAPPENED THAT NIGHT?  
 Volo is embarrassed to admit he might have gotten his friend Floon in trouble, and he resists providing all the details ofwhat happened the night Floon disappeared.
 
 Beset by writer's block, Volo met Floon Blagmaar for drinks at the Skewered Dragon two nights ago. They drank and gambled for a few hours, and then Volo left. That's the last he saw of Floon.
@@ -103,4 +103,31 @@ The gnome lowers a pipe and exhales a cloud of lav- ender smoke before raising a
 
 The shop is named after the stuffed beholder in the win- dow-a fixture that is actually a magical sensor, through which Xanathar can peer whenever it wishes.
 
-The shopkeeper is a wizened deep gnome who spies for the Xanathar Guild. A few years ago, he survived
+The shopkeeper is a wizened deep gnome who spies for the Xanathar Guild. A few years ago, he survived the detonation of a gas spore in Undermountain and inherited some stray beholder memories. Driven by a compulsion to carve out his own domain, the gnome settled in Waterdeep, bought the Old Xoblob Shop from its previous owner, and tried renaming it after himself, yet everyone kept calling it the Old Xoblob Shop. He therefore restored the old name and changed his name to Xoblob. ·'No relation to the eye tyrant hanging in the window!" he says.
+
+Trinkets. The gnome sells an assortment of trinkets. As the characters search the shelves, roll on the Trin- kets table in chapter 5 of the Player's Handbook to de- termine what catches their eye. Xoblob sells any trinket for ld6 gp.
+
+Floon's Fate. The gnome doesn't know Floon by name, but he recognizes liis description. He is reluctant to share information, but offering him a new purple item or succeeding on a DC 13 Charisma (Intimidation or Persuasion) check loosens his tongue. He says that Floon and a well-dressed fellow of similar appearance and bearing (Renaer Neverember, though the gnome doesn't know his name and didn't recognize him) were
+
+jumped outside the shop by rough-looking men in black leather armor. Xoblob thinks there were five attackers, but none of them looked familiar. One of them had a black tattoo ofa winged snake on his neck.
+
+THE SKEWERED DRAGON  
+The Skewered Dragon faces an alley that runs between Net Street and Fillet Lane in the Dock Ward, not far from the Old Xoblob Shop. When the characters ap- proach it, read:
+
+The Skewered Dragon looks like a ruin. Both of its front-facing windows are smashed, and a ship's anchor is lodged in the roof. Through the windows, you can see a group of haggard patrons drinking from huge tankards.
+
+Floon has not been at the Skewered Dragon since the night of his disappearance, and the dive's dockworker patrons are loath to talk to strangers. A bribe or a suc- cessful DC 13 Charisma (Intimidation or Persuasion) check gets them to open up.
+
+Floon's Fate. Several of the regulars remember see- ing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: Renaer Neverember, the son of Waterdeep's previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. 'Just another spoiled, rich noble who likes to rub our noses in it!" says another.
+
+ThetwodrankandplayedafewroundsofThree- Dragon Ante before leaving around midnight. Five men followed them out, and no one in the tavern knows what happened after that. The men who left shortly after Floon and Renaer haven't returned to the tavern since, but they're known to frequent a warehouse on Candle Lane. "Look for the snake symbol on the door," says one of the tavern regulars.
+
+CANDLE LANE  
+The buildings on either side of Candle Lane are so tall
+
+and so tightly packed together that light touches the street only at highsun.
+
+Gloom envelops a narrow alley as dark as a dungeon- and as odorous as one, too. Nearly all the streetlamps have been smashed. The only light that pierces the darkness is a faint flickering from down the lane, like a distant candle.
+
+The flickering comes from the one streetlamp still intact on Candle Lane, kept alight by a continual flame spell.  A warehouse is directly across the street from the lamp, which illuminates a black winged snake (the symbol of the Zhentarim) painted above the door's handle. Char- acters who have ties to the Zhentarim recognize the symbol, while others can recall its significance with a successful DC 10 Intelligence check.
+[[Zhentarim Hideout]]
