@@ -116,7 +116,7 @@ The Skewered Dragon looks like a ruin. Both of its front-facing windows are smas
 
 Floon has not been at the Skewered Dragon since the night of his disappearance, and the dive's dockworker patrons are loath to talk to strangers. A bribe or a suc- cessful DC 13 Charisma (Intimidation or Persuasion) check gets them to open up.
 
-Floon's Fate. Several of the regulars remember see- ing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: [[Renaer Neverember]], the son of [[Waterdeep]]'s previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. 'Just another spoiled, rich noble who likes to rub our noses in it!" says another.
+Floon's Fate. Several of the regulars remember see- ing Volo and Floon drinking together a couple of nights ago. After Volo left, Floon stuck around long enough to meet with another friend: [[Renaer Neverember]], the son of [[Waterdeep]]'s previous Open Lord, Dagult Neverember. "Chip off the old block, that one!" sneers one patron. 'Just another spoiled, rich noble who likes to r1§ub our noses in it!" says another.
 
 ThetwodrankandplayedafewroundsofThree- Dragon Ante before leaving around midnight. Five men followed them out, and no one in the tavern knows what happened after that. The men who left shortly after Floon and Renaer haven't returned to the tavern since, but they're known to frequent a warehouse on Candle Lane. "Look for the snake symbol on the door," says one of the tavern regulars.
 
