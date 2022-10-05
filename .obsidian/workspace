@@ -7,118 +7,141 @@
         "id": "a34e937dd35e665a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Events/Chapter 1 - A Friend in Need.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1eaa9c5e51968e9f",
-    "type": "mobile-drawer",
+    "id": "67966e4109a529f8",
+    "type": "split",
     "children": [
       {
-        "id": "29f677c72519da52",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2d673ed907fac3fd",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "e3c53fcbed75c7d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4dc9b570d7e7fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4650a45828134810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61c601c2c94682e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "3fbc7edf6fc0e6bc",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "04b4c1e3b270331c",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "6197375120ef137c",
-    "type": "mobile-drawer",
+    "id": "5db6cec65653621b",
+    "type": "split",
     "children": [
       {
-        "id": "805f7c3843783883",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "2807695226709bbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4559dac187f2b17b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/Chapter 1 - A Friend in Need.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "493f0a662211dda1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Events/Chapter 1 - A Friend in Need.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a56f9170ae188abd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90613d6b2e4d3f7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Events/Chapter 1 - A Friend in Need.md"
+              }
+            }
+          },
+          {
+            "id": "a31072e98415460f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "0a3417dff689e99a",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "73f2dcb3e89ff192",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
-      },
-      {
-        "id": "2860eee92112b043",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Events/Chapter 2 - Trollskull Alley.md",
     "Events/Chapter 1 - A Friend in Need.md",
     "Party/Souta Sai.md",
     "Party/Sun Zhao.md",
-    "Events/Chapter 2 - Trollskull Alley.md",
     "Party/Hilbo.md",
     "NPCs/Xanathar.md",
     "NPCs/Volothamp Geddarm.md",
