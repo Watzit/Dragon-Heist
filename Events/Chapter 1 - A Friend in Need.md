@@ -9,7 +9,7 @@ This adventure assumes that the characters have already formed a party and arc p
 
 TAVERN BRAWL
 
-As the characters are relaxing in the taproom of the [[Yawning Portal]]. a fistfight breaks out. Read the follow- ing to set the scene:
+As the characters are relaxing in the tar5proom of the [[Yawning Portal]]. a fistfight breaks out. Read the follow- ing to set the scene:
 ____
 "You sit around a sturdy wooden table lit by a brightly burning candle and littered with plates cleared of food and half-drained tankards. The sounds of gamblers yelling and drunken adventurers singing bawdy songs nearly drown out the off-key strumming of a young bard three tables over."
 ____
