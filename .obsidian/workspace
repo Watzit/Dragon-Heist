@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party/Amon.md",
+            "file": "Events/Chapter 1 - A Friend in Need.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Amon.md",
+                "file": "Events/Chapter 1 - A Friend in Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Amon.md",
+                "file": "Events/Chapter 1 - A Friend in Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Amon.md"
+                "file": "Events/Chapter 1 - A Friend in Need.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "a34e937dd35e665a",
   "lastOpenFiles": [
+    "Party/Amon.md",
     "Party/Hera Goldstrider.md",
     "Events/Chapter 1 - A Friend in Need.md",
     "Events/Chapter 2 - Trollskull Alley.md",
@@ -146,7 +147,6 @@
     "Party/Hilbo.md",
     "NPCs/Xanathar.md",
     "NPCs/Volothamp Geddarm.md",
-    "NPCs/Renaer Neverember.md",
-    "NPCs/Floon Blagmaar.md"
+    "NPCs/Renaer Neverember.md"
   ]
 }
